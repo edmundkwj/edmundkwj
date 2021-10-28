@@ -1,5 +1,5 @@
 ### Hi I'm Edmund👋 
-I'm Edmund from Singapore, currently a Business Analyst (APAC) Intern at foodpanda.
+I'm Edmund from Singapore, currently a Business Analytics (APAC) Intern at foodpanda.
 
 Technical Skills:
 
