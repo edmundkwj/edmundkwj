@@ -8,4 +8,4 @@ Technical Skills:
 
 ![Edmund's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohweijie97&hide=contribs,prs&show_icons=true&theme=graywhite)
 ### Profile Visits
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kohweijie97&left_color=red3&right_color=grey)
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kohweijie97&left_color=red3&right_color=grey)
