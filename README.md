@@ -1,5 +1,4 @@
-### Hi I'm Edmund👋 
-I'm Edmund from Singapore
+### Hi I'm Edmund from Singapore👋 
 
 Technical Skills:
 
