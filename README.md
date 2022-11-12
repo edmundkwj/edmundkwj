@@ -8,4 +8,5 @@ Technical Skills:
 ### Profile Visits
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=edmundkwj&left_color=red3&right_color=grey)
 
+Before you leave, here's a random joke(:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&textColor=#fff)
