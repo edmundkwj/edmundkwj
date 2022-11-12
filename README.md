@@ -10,4 +10,4 @@ Technical Skills:
 
 Before you leave, here's a random joke(:
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&textColor=#fff)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&textColor=#000000)
