@@ -7,4 +7,5 @@ Technical Skills:
 ![Edmund's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmundkwj&hide=contribs,prs&show_icons=true&theme=graywhite)
 ### Profile Visits
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=edmundkwj&left_color=red3&right_color=grey)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&textColor=#fff)
